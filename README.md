@@ -3,7 +3,7 @@
 =======
 ## 个人博客
 
-<a href="https://kuizuo.cn">🖥 Online Preview</a>
+<a href="https://docs.nfornight.fun">🖥 Online Preview</a>
 
 ## Introduction
 
@@ -14,8 +14,8 @@
 ## Install
 
 ```sh
-git clone https://github.com/kuizuo/blog.git
-cd blog
+git clone https://github.com/nfornight/nfn-docusaurus.git
+cd nfn-docusaurus
 yarn
 yarn run start
 ```
