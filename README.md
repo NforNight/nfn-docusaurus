@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # nfn-docusaurus
-=======
+
 ## 个人博客
 
 <a href="https://docs.nfornight.fun">🖥 Online Preview</a>
@@ -9,7 +9,7 @@
 
 基于[🦖Docusaurus](https://docusaurus.io/)构建的个人博客
 
-在这里你能了解到各类实战开发的所遇到的问题，帮助你在学习的过程了解最新的技术栈，并希望我的个人经历对你有所启发。
+自己无聊到捣鼓的
 
 ## Install
 
@@ -54,4 +54,3 @@ yarn run build
 ## License
 
 [MIT licensed](https://github.com/kuizuo/blog/blob/main/LICENSE).
->>>>>>> create
